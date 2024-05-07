@@ -6,4 +6,4 @@ The markets of interest are: USA, Finland, Sweden, Denmark.
 
 Sources (so far)
 
-USA: EDGAR: database managed by SEC. Includes all necessary financial statements from public US companies
+USA: EDGAR: database managed by SEC. Includes all necessary financial statements from public US companies. Huge credit to @GGRusty for publishing clean code for working with the EDGAR API.
